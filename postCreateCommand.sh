@@ -1,3 +1,5 @@
+git config --global --add safe.directory /workspaces/*
+
 projects=$(ls -d */)
 
 for i in $projects; do
