@@ -1,6 +1,6 @@
 git config --global --add safe.directory /workspaces/*
-git config --global user.email "you@example.com"
-git config --global user.name "Your Name"
+git config --global user.email "hunjuly@gmail.com"
+git config --global user.name "hunjuly"
 
 projects=$(ls -d */)
 
